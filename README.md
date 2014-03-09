@@ -9,3 +9,9 @@ SharpPM25
 获取西安市当天当时的空气质量指数。
 
 该应用目前只能获取西安的空气质量指数。
+
+主要采用的技术是使用Jodd-Jerry组件来解析HTML，抓取数据。
+
+考虑并尝试了HTMLParser，Jsoup和Jerry后，还是决定使用Jerry。
+
+目前抓取的网站为 [aqicn.org](aqicn.org)
