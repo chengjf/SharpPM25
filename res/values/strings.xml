@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharpPM25</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+    <string name="pm25_name">PM2.5</string>
+    <string name="unkown">unknown</string>
+    <string name="pm10_name">PM10</string>
+    <string name="o3_name">臭氧</string>
+    <string name="no2_name">二氧化氮</string>
+    <string name="so2_name">二氧化硫</string>
+    <string name="co_name">一氧化碳</string>
+    <string name="temp_name">温度</string>
+    <string name="dew_name">露点温度</string>
+    <string name="pressure_name">压强</string>
+    <string name="humidity_name">湿度</string>
+    <string name="wind_name">风力</string>
+    <string name="aqi_name">空气质量指数</string>
+
+</resources>
